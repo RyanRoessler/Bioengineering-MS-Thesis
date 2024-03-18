@@ -1,4 +1,4 @@
-# Bioengineering-MS-Thesis
+# Bioengineering MS Thesis Project
 M.S. Thesis from Colorado State University (CSU)  
 
 "Anomalous Diffusion of mRNA in the Cytoplasm of HeLa Cells"  
